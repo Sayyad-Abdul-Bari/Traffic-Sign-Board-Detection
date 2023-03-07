@@ -1,5 +1,5 @@
 # Traffic-Sign-Board-Detection
-A regular CNN model (VGG19) and perform grad-CAM 
+## A regular CNN model (VGG19) and perform grad-CAM 
 Objective: The objective of the project is to detect traffic sign boards in an image and classify them into various categories.
 
 Dataset: The dataset used for the project is the German Traffic Sign Recognition Benchmark (GTSRB) dataset, which consists of images of various traffic signs.
