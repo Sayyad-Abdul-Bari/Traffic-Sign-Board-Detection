@@ -16,3 +16,5 @@ detection.
 
 Conclusion: The project concludes that the proposed methodology for traffic sign board detection can be used in real-world applications such as autonomous driving 
 systems, traffic management, and road safety.
+
+Referenced data: https://github.com/jeonsworld/ViT-pytorch/blob/main/visualize_attention_map.ipynb 
